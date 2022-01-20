@@ -4,4 +4,4 @@ Yay!
 
 ## Subheader
 
-My Hearrt's a Stereo.
+My Heart's a Stereo.
