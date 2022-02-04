@@ -1,11 +1,9 @@
-# DEMO
+# ToDo App
+An Attempt to work with vanilla HTML,CSS and JavaScript.
 
-Yay!
+## Description
 
-## Subheader
-
-My Heart's a Stereo.
+This app provides the functionality of adding and removing ToDos, also allowing strikethrough to differeniate completed tasks.
 
 ## Feature Addition
-
-It beats for only you.
+Duh.
